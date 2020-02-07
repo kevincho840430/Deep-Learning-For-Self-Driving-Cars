@@ -3,6 +3,7 @@
 
 Refer from https://github.com/ManajitPal/DeepLearningForSelfDrivingCars
 and https://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf
+
 **Goals**
 
 The goals / steps of this project are the following:
